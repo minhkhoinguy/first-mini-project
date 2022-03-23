@@ -1,0 +1,36 @@
+body{
+    background-color: wheat;
+}
+header{
+    background-color: darkgreen;
+    height: 50px;
+    width: 1500px;
+    display:inline-block
+}
+li{
+    display: inline;
+    position: relative;
+    left: 1200px;
+    margin: 15px;
+    
+}
+ul{
+    color: white;
+}
+h1{
+    text-align: center;
+}
+.section-1{
+    text-align: center;
+    background-color: white;
+}
+img{
+    padding: 25px;
+    border: 10px solid blue;
+    margin-top: 10px;
+    background-color: brown;
+}
+.section-2{
+   background-color: tomato; 
+   text-align: center;
+}
